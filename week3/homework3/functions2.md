@@ -1,4 +1,4 @@
-##Exercise 1
+## Exercise 1
 
 ```js
 function turtle(_1, _2, _3) {
@@ -12,7 +12,7 @@ console.assert(return_val === 'turtle', "2: return_val === " + return_val);
 ```
 ---
 
-##Exercise 2
+## Exercise 2
 
 ```js
 function turtle(_1, _2) {
@@ -27,7 +27,7 @@ console.assert(return_val === 'turtle', "3: return_val === " + return_val);
 ```
 ---
 
-##Exercise 3
+## Exercise 3
 
 ```js
 function turtle(_1, _2) {
@@ -39,7 +39,7 @@ console.assert(return_val === 'turtle', "4: return_val === " + return_val)
 ```
 ---
 
-##Exercise 4
+## Exercise 4
 
 ```js
 function turtle(_1, _2, _3) {
@@ -54,7 +54,7 @@ console.assert(return_val_2 === 'turtle', "5: return_val_2 === " + return_val_2)
 ```
 ---
 
-##Exercise 5
+## Exercise 5
 
 ```js
 function turtle(_1, _2, _3) {
@@ -81,7 +81,7 @@ console.assert(return_val_6 === 'turtle', "6: return_val_6 === " + return_val_6)
 ```
 ---
 
-##Exercise 6
+## Exercise 6
 
 ```js
 function turtle(_1, _2, _3, _4, _5) {
@@ -94,7 +94,7 @@ console.assert(return_val === 'turtle', "7: return_val === " + return_val);
 ---
 
 
-##Exercise 7
+## Exercise 7
 
 ```js
 function turtle(_1, _2, _3, _4, _5) {
@@ -106,7 +106,7 @@ console.assert(return_val === 'turtle', "7: return_val === " + return_val);
 ```
 ---
 
-##Exercise 8
+## Exercise 8
 
 ```js
 function turtle(_1, _2, _3, _4, _5) {
@@ -120,7 +120,7 @@ console.assert(return_val === 'turtle', "9: return_val === " + return_val);
 ```
 ---
 
-##Exercise 9
+## Exercise 9
 
 ```js
 function turtle(_1, _2, _3, _4, _5) {
