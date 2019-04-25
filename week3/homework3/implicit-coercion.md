@@ -46,8 +46,8 @@ return x && y;
 }
   // if both arguments are the same type (num, string, or bool)
   //  compare them with === and return the result
-const type_x = typeof_x;
-const type_y = typeof_y;
+const type_x = typeof x;
+const type_y = typeof y;
 var x_y = type_x === type_y
 if(x_y) {
   return x === y;
