@@ -1,4 +1,7 @@
 ## Exercise 1
+
+
+```js
 * your function must pass all of these tests
   
   null, undefined            ->   true
@@ -59,4 +62,5 @@ if(x_num===y_num){
 }
 }
 
+```
 ---
